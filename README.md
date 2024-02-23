@@ -1,8 +1,8 @@
 # py-calculator
 
-Simple Calculator by python
+## Simple Calculator by python
 
-Getting started
+## Getting started
 This Program run on both Windows and Linux operating system by using pycharm, anaconda 3 or all other python editor with the python version 3.x
 
 This software is developed by python 3.x
@@ -15,19 +15,20 @@ It is more secure which means you may not enter other anything except the numeri
 
 It is more relevant and easy to use for an user
 
-Prerequisites
+## Prerequisites
 
-You need to install python version 3.x. you may download Python version from their official website: https://www.python.org/downloads/
+```You need to install python version 3.x. you may download Python version from their official website: https://www.python.org/downloads/
 
 or download a complete package by downloading anaconda: ../ https://www.anaconda.com/download/
 
 One editor can be a good one. (i.e., pycharm, anaconda3 etc or any other that you can choice). Download pycharm: ../ https://www.jetbrains.com/pycharm/download/#section=windows
+```
 
-For Linux
+## For Linux
 
 To install both python and any text editor like pycharm you should do some execution of command line on the terminal.
 
-Built in
+## Built in
 python 3.x
 
 tkinter python
