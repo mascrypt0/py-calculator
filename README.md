@@ -17,11 +17,14 @@ It is more relevant and easy to use for an user
 
 ## Prerequisites
 
-```You need to install python version 3.x. you may download Python version from their official website: https://www.python.org/downloads/
+```
+You need to install python version 3.x. you may download Python version from their official website: https://www.python.org/downloads/
 
-or download a complete package by downloading anaconda: ../ https://www.anaconda.com/download/
+or download a complete package by downloading anaconda: https://www.anaconda.com/download/
 
-One editor can be a good one. (i.e., pycharm, anaconda3 etc or any other that you can choice). Download pycharm: ../ https://www.jetbrains.com/pycharm/download/#section=windows
+One editor can be a good one. (i.e., pycharm, anaconda3 etc or any other that you can choice).
+
+Download pycharm: https://www.jetbrains.com/pycharm/download/#section=windows
 ```
 
 ## For Linux
